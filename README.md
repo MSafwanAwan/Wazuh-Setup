@@ -1,7 +1,7 @@
 # Lab 01 – Wazuh SIEM Fundamentals & Initial Setup
 
 📄 **Full Detailed Documentation (with screenshots & steps):**  
-[Open Lab 01 PDF](./Lab-01-Wazuh-Fundamentals.pdf)
+[Open Wazuh Fundamentals PDF](./Wazuh Fundamentals.pdf)
 
 
 ## 📌 Objective
