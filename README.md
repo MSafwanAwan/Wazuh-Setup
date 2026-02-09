@@ -1,7 +1,7 @@
 # Lab 01 – Wazuh SIEM Fundamentals & Initial Setup
 
 📄 **Full Detailed Documentation (with screenshots & steps):**  
-([./Wazuh Fundamentals.pdf](https://github.com/MSafwanAwan/Wazuh-Setup/blob/5f2bbee3b8269ab06618e74df6b710fe2216644d/Wazuh%20Fundamentals.pdf))
+([Wazuh Fundamentals.pdf](https://github.com/MSafwanAwan/Wazuh-Setup/blob/5f2bbee3b8269ab06618e74df6b710fe2216644d/Wazuh%20Fundamentals.pdf))
 
 
 ## 📌 Objective
